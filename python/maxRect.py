@@ -1,3 +1,13 @@
+# -*- codeing = utf-8 -*-
+# @File : 
+# @Author : 
+# @Version : 
+# @Software : 
+# @Time : 
+# @Purpose : 参考博文 https://blog.csdn.net/qq_17550379/article/details/85093224 
+#          最大正方形 https://zhuanlan.zhihu.com/p/92355321
+
+
 import numpy as np
 import cv2
 import os
