@@ -1,0 +1,3 @@
+/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/maxRectInregion/maxInerrect/C_plus/build/CMakeFiles/demo.dir
+/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/maxRectInregion/maxInerrect/C_plus/build/CMakeFiles/edit_cache.dir
+/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/maxRectInregion/maxInerrect/C_plus/build/CMakeFiles/rebuild_cache.dir
